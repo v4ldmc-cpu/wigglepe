@@ -1,0 +1,8 @@
+{
+  "name": "Wiggle",
+  "description": "Aplicación móvil interactiva y accesible para la reactivación física y rehabilitación de miembros inferiores con el dispositivo lúdico Wiggle.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
